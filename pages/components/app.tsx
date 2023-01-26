@@ -33,9 +33,9 @@ export default function App() {
                 </Navbar.Content>
                 <Navbar.Content>
                     <Navbar.Item>
-                        <Link href="https://github.com/sponsors/forecho" target="_blank" rel="noopener noreferrer">
+                        <Link href="http://www.good123.run" target="_blank" rel="noopener noreferrer">
                             <Button auto color={color} href="#" icon={<HeartIcon/>}>
-                                Sponsor
+                                登录（开发中）
                             </Button>
                         </Link>
                     </Navbar.Item>

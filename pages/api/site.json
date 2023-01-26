@@ -1,14 +1,14 @@
 {
   "logo": "",
-  "keywords": "设计师，资源导航",
+  "keywords": "web3，导航",
   "favicon": "https://afterwork-design.github.io/castalia/castalia-s.png",
   "seo": {
-    "title": "Cherries",
-    "description": "最全的网站资源"
+    "title": "Good123",
+    "description": "Good123最全的web3网站资源"
   },
   "banner": {
-    "title": "一个资源导航网站",
-    "subtitle": "精选国内外优质网站， 让每个人都能找到自己需要的资源"
+    "title": "一个web3导航网站",
+    "subtitle": "精选web3优质网站， 让每个人都能找到自己需要的资源！"
   },
   "navItems": [
     {
@@ -16,16 +16,16 @@
       "url": "#"
     },
     {
-      "name": "工具",
-      "url": "#工具"
+      "name": "区块链安全",
+      "url": "#区块链安全"
     },
     {
-      "name": "英语学习",
-      "url": "#英语学习"
+      "name": "区块链浏览器",
+      "url": "#区块链浏览器"
     },
     {
-      "name": "Github",
-      "url": "https://github.com/forecho/cherries"
+      "name": "web3常用工具",
+      "url": "#web3常用工具"
     }
   ]
 }

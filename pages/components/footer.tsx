@@ -6,16 +6,12 @@ export default function Footer() {
             <Row justify="center">
                 Created by&#20;
                 <Text b>
-                    <Link href="https://forecho.com" target="_blank" rel="noopener noreferrer">
-                        forecho
+                    <Link href="https://twitter.com/docker27017" target="_blank" rel="noopener noreferrer">
+                        Docker
                     </Link>
                 </Text>
-                &#20;on&#20;
-                <Text b>
-                    <Link href="https://github.com/forecho/cherries" target="_blank" rel="noopener noreferrer">
-                        Github
-                    </Link>
-                </Text>
+                &#20; &#20;
+
             </Row>
         </Container>
     );
