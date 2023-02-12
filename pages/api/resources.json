@@ -14,6 +14,12 @@
                 "description": "合约学习-wtf学院 国人网站，刷题学习",
                 "url": "https://wtf.academy/",
                 "logo": "https://afterwork-design.github.io/castalia/images/site/iconpark.jpg"
+            },
+            {
+                "title": "登链社区",
+                "description": "区块链学习",
+                "url": "https://learnblockchain.cn/",
+                "logo": "https://afterwork-design.github.io/castalia/images/site/iconpark.jpg"
             }
         ]
     },
@@ -73,6 +79,12 @@
                 "title": "Aleo",
                 "description": "零知识私有应用平台 Aleo",
                 "url": "https://www.aleo.org/",
+                "logo": "https://afterwork-design.github.io/castalia/images/site/iconpark.jpg"
+            },
+            {
+                "title": "Iron Fish",
+                "description": "隐私区块链网络 Iron Fish",
+                "url": "https://ironfish.network/",
                 "logo": "https://afterwork-design.github.io/castalia/images/site/iconpark.jpg"
             }
         ]
